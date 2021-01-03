@@ -14,7 +14,7 @@ var currency = {
 
 // Urls
 var apiUrl = 'http://finance.yahoo.com/d/quotes.csv?e=.csv&f=sl1d1t1&s=' + currency.from + currency.to + '=X';
-var hookUrl = 'https://hooks.slack.com/services/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';
+var hookUrl = 'https://hooks.slack.com/services/T030CB08J/B0NT89DSM/BEAUTIFUL_HASH';
 
 // Functions
 function slackSend(text) {
